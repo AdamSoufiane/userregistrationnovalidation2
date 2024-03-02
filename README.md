@@ -1,0 +1,1 @@
+This Spring Boot shred, 'UserRegistrationNoValidation2', provides a user registration endpoint. It follows Hexagonal Architecture with a clear separation of concerns among the Application, Domain, and Infrastructure layers. The Application layer hosts the DTOs, service, and ports for user registrati
